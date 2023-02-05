@@ -27,8 +27,3 @@ ARBOx is built using Unity and Xcode, utilizing the Vuforia engine for AR functi
 6. Build and run the project in Xcode
 7. Point your device's camera at an image target to activate the AR experience
 
-## License
-This project is licensed under the [Insert License Name] license.
-
-## Contact
-For any questions or concerns, please contact [Your Name and Email].
