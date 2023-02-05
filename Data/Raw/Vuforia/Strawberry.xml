@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="fff3" size="0.050000 0.050000"/>
+        <ImageTarget name="fff4" size="0.050000 0.050000"/>
+        <ImageTarget name="fff2" size="0.050000 0.050000"/>
+        <ImageTarget name="fff1" size="0.050000 0.050000"/>
+        <ImageTarget name="straw.Right" size="0.100000 0.100000"/>
+        <ImageTarget name="straw.Back" size="0.100000 0.100000"/>
+        <ImageTarget name="straw.Top" size="0.100000 0.100000"/>
+        <ImageTarget name="straw.Left" size="0.100000 0.100000"/>
+        <ImageTarget name="straw.Front" size="0.100000 0.100000"/>
+        <ImageTarget name="straw.Bottom" size="0.100000 0.100000"/>
+        <MultiTarget name="straw">
+            <Part name="straw.Left" translation="-0.05000000074505806 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="straw.Right" translation="0.05000000074505806 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="straw.Front" translation="0 0 0.05000000074505806" rotation="AD: 1 0 0 0"/>
+            <Part name="straw.Back" translation="0 0 -0.05000000074505806" rotation="AD: 0 1 0 180"/>
+            <Part name="straw.Top" translation="0 0.05000000074505806 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="straw.Bottom" translation="0 -0.05000000074505806 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
